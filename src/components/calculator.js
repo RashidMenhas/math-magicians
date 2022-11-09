@@ -4,7 +4,7 @@ import './calculator.css';
 class Calculator extends React.PureComponent {
   render() {
     return (
-      <div className='container'>
+      <div className="container">
         <div className="result-area">0</div>
 
         <div className="All-btns">
