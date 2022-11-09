@@ -26,7 +26,7 @@ class Calculator extends React.PureComponent {
           <button type="button" className="plus gold">+</button>
           <button type="button" className="zero">0</button>
           <button type="button" className="dot">.</button>
-          <button type="button" className="equal">=</button>
+          <button type="button" className="equal gold">=</button>
 
         </div>
       </div>
