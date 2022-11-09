@@ -1,5 +1,53 @@
+body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
 .container {
-  width: 30%;
-  height: 40%;
-  border: 3px solid black;
+  display: flex;
+  flex-direction: column;
+  width: 379px;
+  margin-left: 40vw;
+  margin-top: 10%;
+}
+
+.All-btns {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  width: 94px;
+  height: 50px;
+  font-size: 20px;
+}
+
+.result-area {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background-color: rgb(172, 172, 172);
+  align-items: center;
+  margin-right: 20px;
+}
+
+.result {
+  color: azure;
+  font-size: large;
+  padding: 0 10px;
+}
+
+.gold {
+  background-color: rgb(255, 136, 0);
+  border: 1px solid rgb(129, 129, 129);
+}
+
+.zero {
+  width: 188px;
 }
