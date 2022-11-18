@@ -1,4 +1,4 @@
-import calculate from '../../logic/calculate'
+import calculate from '../../logic/calculate';
 
 const add = calculate({
   total: 6,

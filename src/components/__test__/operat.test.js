@@ -1,4 +1,4 @@
-import operate from '../../logic/operate'
+import operate from '../../logic/operate';
 
 test('adds 2 + 2 to equal 4', () => {
   const add = parseInt(operate(2, 2, '+'), 10);
