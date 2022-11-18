@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test for Calculator compoenent 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <h3>
+          Welcome To Our Page!
+        </h3>
+        <p>
+          Fourth grade is an important time for learning and Im pleased to have the opportunity to help our students reach their full potential.  My classroom is built on respect, responsibility, and citizenship.  I work to create a community of learners who will learn what it means to be an independent and responsible lifelong learner. Responsibility and self-management will be our focus this year as we head into the intermediate grades! Parents, please feel free to contact me during the year with any questions, concerns or information that will help me to meet your childs individual needs.
+           
+        </p>
+        <p>
+          Fourth grade is an important time for learning and I m pleased to have the opportunity to help our students reach their full potential.  My classroom is built on respect, responsibility, and citizenship.  I work to create a community of learners who will learn what it means to be an independent and responsible lifelong learner. Responsibility and self-management will be our focus this year as we head into the intermediate grades!Parent, please feel free to contact me during the year with any questions, concerns or information that will help me to meet your childs individual needs.
+           
+        </p>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <h3>
+        Welcome To Our Page!
+      </h3>
+      <p>
+        Fourth grade is an important time for learning and Im pleased to have the opportunity to help our students reach their full potential.  My classroom is built on respect, responsibility, and citizenship.  I work to create a community of learners who will learn what it means to be an independent and responsible lifelong learner. Responsibility and self-management will be our focus this year as we head into the intermediate grades! Parents, please feel free to contact me during the year with any questions, concerns or information that will help me to meet your childs individual needs.
+         
+      </p>
+      <p>
+        Fourth grade is an important time for learning and I m pleased to have the opportunity to help our students reach their full potential.  My classroom is built on respect, responsibility, and citizenship.  I work to create a community of learners who will learn what it means to be an independent and responsible lifelong learner. Responsibility and self-management will be our focus this year as we head into the intermediate grades!Parent, please feel free to contact me during the year with any questions, concerns or information that will help me to meet your childs individual needs.
+         
+      </p>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
